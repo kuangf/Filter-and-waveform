@@ -1,0 +1,8 @@
+set_property IOSTANDARD LVCMOS33 [get_ports clk]
+set_property IOSTANDARD LVCMOS33 [get_ports DAC_Din]
+set_property IOSTANDARD LVCMOS33 [get_ports DAC_Sync]
+set_property IOSTANDARD LVCMOS33 [get_ports rst]
+set_property PACKAGE_PIN P17 [get_ports clk]
+set_property PACKAGE_PIN P5 [get_ports rst]
+set_property PACKAGE_PIN F6 [get_ports DAC_Din]
+set_property PACKAGE_PIN G4 [get_ports DAC_Sync]

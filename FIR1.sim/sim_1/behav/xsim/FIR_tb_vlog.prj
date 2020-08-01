@@ -1,0 +1,15 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../FIR1.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v" \
+"../../../../FIR1.srcs/sources_1/new/DAC.v" \
+"../../../../FIR1.srcs/sources_1/new/FIR_count.v" \
+"../../../../FIR1.srcs/sources_1/new/FIR_filter.v" \
+"../../../../FIR1.srcs/sources_1/new/FIR_top.v" \
+"../../../../FIR1.srcs/sources_1/new/multip.v" \
+"../../../../FIR1.srcs/sim_1/new/tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort

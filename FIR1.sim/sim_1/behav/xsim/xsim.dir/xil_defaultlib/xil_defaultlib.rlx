@@ -1,0 +1,12 @@
+0.6
+2018.3
+Dec  7 2018
+00:33:28
+D:/vivadoo/FIR1/FIR1.sim/sim_1/behav/xsim/glbl.v,1544155481,verilog,,,,glbl,,,,,,,,
+D:/vivadoo/FIR1/FIR1.srcs/sim_1/new/tb.v,1596264044,verilog,,,,FIR_tb,,,,,,,,
+D:/vivadoo/FIR1/FIR1.srcs/sources_1/ip/dist_mem_gen_0/sim/dist_mem_gen_0.v,1596263905,verilog,,D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/DAC.v,,dist_mem_gen_0,,,,,,,,
+D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/DAC.v,1596263821,verilog,,D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/FIR_count.v,,Driver_DAC,,,,,,,,
+D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/FIR_count.v,1596263824,verilog,,D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/FIR_filter.v,,FIR_count,,,,,,,,
+D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/FIR_filter.v,1596263822,verilog,,D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/FIR_top.v,,FIR_filter,,,,,,,,
+D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/FIR_top.v,1596263819,verilog,,D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/multip.v,,FIR_top,,,,,,,,
+D:/vivadoo/FIR1/FIR1.srcs/sources_1/new/multip.v,1596264177,verilog,,D:/vivadoo/FIR1/FIR1.srcs/sim_1/new/tb.v,,multip,,,,,,,,

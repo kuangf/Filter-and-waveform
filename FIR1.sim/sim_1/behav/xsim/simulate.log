@@ -1,0 +1,13 @@
+Vivado Simulator 2018.3
+Time resolution is 1 ps
+WARNING: This core is supplied with a behavioral model. To model cycle-accurate behavior you must run timing simulation.
+WARNING in FIR_tb.FIR_tb.your_instance_name.inst at time              8030000 ns: 
+Reading from out-of-range address. Max address in FIR_tb.FIR_tb.your_instance_name.inst is         399
+WARNING in FIR_tb.FIR_tb.your_instance_name.inst at time             16050000 ns: 
+Reading from out-of-range address. Max address in FIR_tb.FIR_tb.your_instance_name.inst is         399
+WARNING in FIR_tb.FIR_tb.your_instance_name.inst at time             24070000 ns: 
+Reading from out-of-range address. Max address in FIR_tb.FIR_tb.your_instance_name.inst is         399
+WARNING in FIR_tb.FIR_tb.your_instance_name.inst at time             32090000 ns: 
+Reading from out-of-range address. Max address in FIR_tb.FIR_tb.your_instance_name.inst is         399
+WARNING in FIR_tb.FIR_tb.your_instance_name.inst at time             40110000 ns: 
+Reading from out-of-range address. Max address in FIR_tb.FIR_tb.your_instance_name.inst is         399
