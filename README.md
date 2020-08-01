@@ -8,3 +8,6 @@ Filter-algorithm -and-arbitrary-waveform-generator
 小组成员：旷凤，李瑶。
 使用的是EGO1开发板，
 clk连接P17，rst连接P5，DAC_Din连接F6，DAC_Sync连接G4
+images中存放的照片
+Sourcecode中存放项目源代码。
+ExecutableFiles中FPGA 比特流文件
